@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.output {
+  margin-top: 20px;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 400px;
+  justify-content: center;
+  border: 1px solid white;
+  min-height: 180px;
+  padding: 20px;
+  border-radius: 20px;
+  background: whitesmoke;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
