@@ -6,7 +6,10 @@
 * reading statistics from chart
 
 ### User Interface
-![picture](https://github.com/KWiduch/covidChart-react/blob/main/public/1.png )
-![picture](https://github.com/KWiduch/covidChart-react/blob/main/public/2.png) </br>
+![picture](https://github.com/KWiduch/covid-chart-react/blob/main/public/1.png )
+![picture](https://github.com/KWiduch/covid-chart-react/blob/main/public/2.png) 
+![picture](https://github.com/KWiduch/covid-chart-react/blob/main/public/3.png) 
+![picture](https://github.com/KWiduch/covid-chart-react/blob/main/public/4.png) 
+</br>
 
 
