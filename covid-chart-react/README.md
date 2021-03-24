@@ -1,4 +1,4 @@
-# Covid Chart Ract
+# Covid Chart React
 ## the application allows the user to select the country and then the date. When selected, a chart for the selected month will be displayed, representing the statistics
 ### What it does: </br>
 * showing chart with statistics
